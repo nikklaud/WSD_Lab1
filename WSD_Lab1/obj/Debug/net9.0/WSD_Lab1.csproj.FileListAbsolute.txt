@@ -1,0 +1,7 @@
+/Users/nikklaud/Documents/University/WSD_UniversityTasks/WSD_Lab1/WSD_Lab1/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/nikklaud/Documents/University/WSD_UniversityTasks/WSD_Lab1/WSD_Lab1/obj/Debug/net9.0/WSD_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikklaud/Documents/University/WSD_UniversityTasks/WSD_Lab1/WSD_Lab1/obj/Debug/net9.0/WSD_Lab1.AssemblyInfoInputs.cache
+/Users/nikklaud/Documents/University/WSD_UniversityTasks/WSD_Lab1/WSD_Lab1/obj/Debug/net9.0/WSD_Lab1.AssemblyInfo.cs
+/Users/nikklaud/Documents/University/WSD_UniversityTasks/WSD_Lab1/WSD_Lab1/obj/Debug/net9.0/WSD_Lab1.csproj.CoreCompileInputs.cache
+/Users/nikklaud/Documents/University/WSD_UniversityTasks/WSD_Lab1/WSD_Lab1/obj/Debug/net9.0/WSD_Lab1.MvcApplicationPartsAssemblyInfo.cache
+/Users/nikklaud/Documents/University/WSD_UniversityTasks/WSD_Lab1/WSD_Lab1/obj/Debug/net9.0/WSD_Lab1.sourcelink.json
